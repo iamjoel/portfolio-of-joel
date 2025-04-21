@@ -4,7 +4,7 @@ const config: ProjectConfig = {
   id: 'portrait-photography',
   title: '人物写真',
   description: '',
-  category: 'picture',
+  category: 'ai-picture',
   images: [
     {
       url: '/portrait-photography/title.png',

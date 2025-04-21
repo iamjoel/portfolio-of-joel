@@ -1,8 +1,10 @@
 import { Project } from '../types';
-import weatherForecast from '../projects/portrait-photography/config';
+import portraitPhotograph from '../projects/portrait-photography/config';
+import quoteCardGenerator from '../projects/quote-card-generator/config';
 
 export const projects: Project[] = [
-  weatherForecast,
+  portraitPhotograph,
+  quoteCardGenerator,
 ].map(config => ({
   id: config.id,
   title: config.title,
