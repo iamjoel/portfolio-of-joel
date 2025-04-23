@@ -105,7 +105,7 @@ export const ProjectDetail: React.FC = () => {
           </div>
 
           {project.technologies && project.technologies.length > 0 && (
-            <div className="flex gap-2 mb-8">
+            <div className="flex flex-wrap gap-2 mb-8">
               {project.technologies.map((tech) => (
                 <span
                   key={tech}
