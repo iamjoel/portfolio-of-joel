@@ -7,7 +7,7 @@
 <img src="/portrait-photography/suyao.png" width="400" />
 
 Prompt:
-<div style="width:500px;">
+<div class="code-wrap">
 
 ```
 帮我画一张图片：
@@ -26,7 +26,7 @@ Prompt:
 <img src="/portrait-photography/xiaoya.png" width="400" />
 
 Prompt:
-<div style="width:500px;">
+<div class="code-wrap">
 
 ```
 帮我画一张图片：垂下头嫣然一笑，风格是人像摄影，比例是1:1
@@ -45,7 +45,7 @@ Prompt:
 ## 在迷雾中跳舞
 <img src="/portrait-photography/dancing-in-smoke.png" width="400" />
 
-<div style="width:500px;">
+<div class="code-wrap">
 
 Prompt:
 ```
